@@ -1,0 +1,71 @@
+.button {border-radius: 8px;}
+
+
+
+h2 {
+  border-style: solid;
+  border-width: thick;
+}
+
+h2 {
+  font-family:sans-serif
+}
+
+h1{
+  font-family:sans-serif;
+
+}
+
+p{
+  font-family:sans-serif
+}
+
+
+@font-face { font-family: Kiotto; src: url('KiottoDemo-pgo11.otf'); } 
+.kiotto { font-family: Kiotto; font-size: 4.2em; }
+       
+    
+body {
+    background-color: #f4efea;
+  }
+  h1 {
+    color: rgb(236, 56, 164);
+  }
+  p {
+    color: #e49bd0;
+  }
+
+  h2 {
+    color:darkgray
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  a img{
+    display: block;
+    text-align: center;
+ }
+
+ a link{
+  text-align:center;
+  display:block;
+}
+
+a button{
+  display:block;
+  text-align: center;
+}
